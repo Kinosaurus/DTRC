@@ -1,0 +1,15 @@
+chromadb
+pdfplumber
+langchain
+langchain-core
+langchain-google-genai
+langchain-chroma
+langchain-community
+langchain_text_splitters
+langchain-unstructured
+unstructured[all-docs]
+fastembed
+pikepdf
+sentence-transformers
+elevenlabs
+streamlit
