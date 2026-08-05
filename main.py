@@ -15,7 +15,6 @@ from langchain_google_genai import GoogleGenerativeAI, GoogleGenerativeAIEmbeddi
 from langchain_chroma import Chroma
 from langchain_core.prompts import PromptTemplate, ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
-from langchain_ollama import ChatOllama
 from langchain_core.runnables import RunnablePassthrough, Runnable
 from langchain_classic.retrievers import MultiQueryRetriever
 from typing import List
